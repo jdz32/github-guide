@@ -30,6 +30,8 @@ each assignment in that homework.
 1.  Click the "Create new file" button on your repository page:
     
     ![New File](img/new-file.png?raw=true)
+    
+    Note that you can also click the "Upload files" button instead to add images, movies, or other file times to your repository.
 
 2.  Give your new file a sensible name, like "puzzle1.js". The file extension you choose  (".js" here) should match
     the programming language used in the file; for Rudy, that's javascript, so use ".js". 
