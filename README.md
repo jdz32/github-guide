@@ -8,6 +8,8 @@ each assignment in that homework.
 
 ### To create a GitHub account ###
 
+If you already have a personal GitHub account, feel free to use that -- no need to create a new one for this course. If you don't have an account, create one:
+
 1. Head over to [GitHub.com](http://github.com).
 2. Enter your choice of username, your school email address, and your choice of password.
 3. Click the big green "Sign up for GitHub" button.
