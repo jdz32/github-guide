@@ -2,9 +2,9 @@ Submitting homework with GitHub: a 3-minute guide
 -------------------------------------------------
 
 This guide will walk you through creating a GitHub 
-account, creating a new repository to contain all 
-the homework for one week, and creating new a file for
-each assignment in that homework.
+account, forking a homework repository to contain your 
+homework for one week, and creating new a file for
+assignments in that homework.
 
 ### To create a GitHub account ###
 
@@ -15,17 +15,11 @@ If you already have a personal GitHub account, feel free to use that -- no need 
 3. Click the big green "Sign up for GitHub" button.
 4. If prompted, choose the "free" plan.
 
-### To create a new repository ###
+### To fork an assignment repository ###
 
-1.  Click the green "+ New repository" button:
+1.  Visit any page in the repository and click the "Fork" button:
     
-    ![New repository](img/new-repository.png?raw=true)
-
-2.  Give your repository a useful name and description,
-    make sure the box marked "Initialize this repository with a README" is checked,
-    and click the "Create repository" button:
-    
-    ![New repository options](img/new-repository-name.png?raw=true)
+    ![Fork repository](img/how-to-fork.png?raw=true)
 
 ### To create a new file for an assignment ###
 
@@ -35,8 +29,8 @@ If you already have a personal GitHub account, feel free to use that -- no need 
     
     Note that you can also click the "Upload files" button instead to add images, movies, or other file times to your repository.
 
-2.  Give your new file a sensible name, like "puzzle1.js". The file extension you choose  (".js" here) should match
-    the programming language used in the file; for Rudy, that's javascript, so use ".js". 
+2.  Give your new file a sensible name, like "exercise-1.js". The file extension you choose  (".js" here) should match
+    the programming language used in the file; for Javascript use ".js". 
     For Processing, use ".pde"; for Arduino, use ".ino".
     
     Then, paste your code into the "Edit new file" tab.
@@ -45,7 +39,8 @@ If you already have a personal GitHub account, feel free to use that -- no need 
     
     ![New file options](img/new-file-entry.png?raw=true)
 
-3.  If you later wish to make changes to your code, you can do so through github as well. First,
+3.  To edit the main repository `README.md` file, or if you later wish to 
+    make changes to your code, you can do so through github as well. First,
     find the file you'd like to change, and click on the file name:
     
     ![File list](img/file-list.png?raw=true)
