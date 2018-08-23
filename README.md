@@ -2,7 +2,8 @@ Submitting homework with GitHub: a 3-minute guide
 -------------------------------------------------
 
 This guide will walk you through creating a GitHub 
-account, forking a homework repository to contain your 
+account, creating your "hub" repository for listing your
+labs, forking a lab repository to contain your 
 homework for one week, and creating new a file for
 assignments in that homework.
 
@@ -15,11 +16,15 @@ If you already have a personal GitHub account, feel free to use that -- no need 
 3. Click the big green "Sign up for GitHub" button.
 4. If prompted, choose the "free" plan.
 
-### To fork an assignment repository ###
+### To fork a repository ###
 
 1.  Visit any page in the repository and click the "Fork" button:
     
     ![Fork repository](img/how-to-fork.png?raw=true)
+    
+2.  Right after you make your account, you'll need to create your Hub repository that points to all your personal lab repositories. Visit the [IDD Hub](https://github.com/FAR-Lab/Interactive-Lab-Hub/) example repository and "Fork" it into your GitHub account.
+
+3. For each lab, you'll need to fork that lab's repository, and then add it to your Hub repository above.
 
 ### To create a new file for an assignment ###
 
