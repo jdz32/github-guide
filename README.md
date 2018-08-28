@@ -22,7 +22,7 @@ If you already have a personal GitHub account, feel free to use that -- no need 
     
     ![Fork repository](img/how-to-fork.png?raw=true)
 
-2.  For each lab, you'll need to fork that lab's repository, and then add it to your Hub repository above.
+2.  For each lab, you'll need to fork that lab's repository, and then add it to your class Hub repository above when you're done.
 
 ### To create a new file for an assignment ###
 
