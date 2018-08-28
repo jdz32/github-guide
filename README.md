@@ -16,15 +16,13 @@ If you already have a personal GitHub account, feel free to use that -- no need 
 3. Click the big green "Sign up for GitHub" button.
 4. If prompted, choose the "free" plan.
 
-### To fork a repository ###
+### To fork: your class "Hub" repository & later lab repositories ###
 
-1.  Visit any page in the repository and click the "Fork" button:
+1.  Visit the [IDD Hub](https://github.com/FAR-Lab/Interactive-Lab-Hub/) example repository and "Fork" it into your GitHub account by clicking the "Fork" link; it should look similar to this (except the repository is `Interactive-Lab-Hub`, not `idd-fa18-lab1`).
     
     ![Fork repository](img/how-to-fork.png?raw=true)
-    
-2.  Right after you make your account, you'll need to create your Hub repository that points to all your personal lab repositories. Visit the [IDD Hub](https://github.com/FAR-Lab/Interactive-Lab-Hub/) example repository and "Fork" it into your GitHub account.
 
-3. For each lab, you'll need to fork that lab's repository, and then add it to your Hub repository above.
+2.  For each lab, you'll need to fork that lab's repository, and then add it to your Hub repository above.
 
 ### To create a new file for an assignment ###
 
@@ -35,8 +33,7 @@ If you already have a personal GitHub account, feel free to use that -- no need 
     Note that you can also click the "Upload files" button instead to add images, movies, or other file times to your repository.
 
 2.  Give your new file a sensible name, like "exercise-1.js". The file extension you choose  (".js" here) should match
-    the programming language used in the file; for Javascript use ".js". 
-    For Processing, use ".pde"; for Arduino, use ".ino".
+    the programming language used in the file; for Javascript use ".js"; for Processing, use ".pde"; for Arduino, use ".ino".
     
     Then, paste your code into the "Edit new file" tab.
     
